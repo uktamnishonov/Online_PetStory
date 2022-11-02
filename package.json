@@ -1,0 +1,14 @@
+{
+  "name": "online-zoo-rs-school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "online-zoo:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Uktam Nishonov",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
