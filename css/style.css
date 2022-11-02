@@ -512,7 +512,7 @@ body {
 
 .header {
   height: 66rem;
-  background: url(/Online-zoo-rs-school/Images/Giantpanda.png);
+  background: url(../Images/Giantpanda.png);
   background-position: center;
   background-repeat: no-repeat; }
   .header__button {
